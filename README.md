@@ -34,7 +34,7 @@ Where do we start?
 0: Figure out just how much money we need.  
 1: Put together a business plan.  
 2: Raise money: Ask friends, colleagues, corporations, ~~governments~~, Elon Musk (and friends), for money. Note: Kickstarter maxes out at $100M.   
-3: Built it (and while we're at it, make it open source)   
+3: Build it (and while we're at it, make it open source)   
 5: Profit
 
 

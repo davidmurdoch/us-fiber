@@ -17,7 +17,7 @@ We are so far behind it is embarrassing — frightening, even.
 Can *we* fix this ourselves?
 -----
 
-I'm not sure. Goldman Sachs has estimated that it would cost Google an estimated $140 billion (or more) to roll 
+I'm not sure. Goldman Sachs has estimated that it would cost Google about $140 billion (or more) to roll 
 Google Fiber out to the rest of the United States. That's a lot of money.
 
 But maybe not too much...

@@ -46,3 +46,6 @@ Research, gather statistics, find out how much money this will require.
 Tell people.
 
 Improve this respository.
+
+
+Initial Stats from: http://www.forbes.com/sites/timworstall/2012/12/10/good-grief-nationwide-google-fiber-would-be-incredibly-cheap-to-build/

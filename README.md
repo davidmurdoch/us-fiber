@@ -1,4 +1,4 @@
-U.S. Fiber
+U.S. Fiber Initiative
 ========
 
 U.S. Internet is painfully slow and obsolete. This repository is aimed at looking into changing this. Please submit 

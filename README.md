@@ -25,7 +25,7 @@ But maybe not too much...
 At $140 billion, that comes out to only $1,400 per U.S. household (only considering those households that are already 
 paying for broadband Internet: or about 100 million households). With average monthly broadband Internet fees of 
 $45/month, that $1,400 is 2.5 years worth of Internet access. And this doesn't include commercial potential. Put in 
-these terms, it seams almost feasable.
+these terms, it seems almost feasable.
 
 
 Where do we start?
